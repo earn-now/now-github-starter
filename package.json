@@ -1,5 +1,14 @@
 {
+  "scripts": {
+    "start": "micro",
+    "dev": "micro-dev"
+  },
   "dependencies": {
-    "silly-datetime": "^0.1.2"
+    "micro": "^9.3.3",
+    "silly-datetime": "^0.1.2",
+    "silly-ejs": "^0.1.1"
+  },
+  "devDependencies": {
+    "micro-dev": "^3.0.0"
   }
 }
